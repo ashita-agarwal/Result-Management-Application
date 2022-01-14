@@ -37,7 +37,8 @@ A Result Management System using HTML, CSS, JavaScript , Node and using MVC Mode
 
 ## Teacher dashboard
 
-<img width="400" alt="teacher login" src="https://user-images.githubusercontent.com/63288542/149562876-025af210-2733-4f56-928e-23cbbc68941f.PNG">
+<img width="400" alt="teacher dashboard" src="https://user-images.githubusercontent.com/63288542/149563436-2ea54c38-32d7-44a7-85a6-d53a031bb0b9.PNG">
+
 
 ## View All Students Result
 
