@@ -21,3 +21,19 @@ A Result Management System using HTML, CSS, JavaScript , Node and using MVC Mode
 ## Frontend
 1. Open URL "https://localhost:3000" on a browser.
 
+# Screen-Shots 
+
+## Project Structure
+<img width="267" alt="Project structure" src="https://user-images.githubusercontent.com/63288542/149562789-4f73ff63-f0cb-49ca-98a3-a24d1d3480dd.PNG">
+## HomePage 
+<img width="960" alt="homepage" src="https://user-images.githubusercontent.com/63288542/149562845-9e15edce-4292-4ae7-9122-eb7c0e0da909.PNG">
+## Teacher Login 
+<img width="960" alt="teacher login" src="https://user-images.githubusercontent.com/63288542/149562922-5e7065ea-1fc1-44fa-bc45-503099bb4635.PNG">
+## Teacher dashboard
+<img width="960" alt="teacher login" src="https://user-images.githubusercontent.com/63288542/149562876-025af210-2733-4f56-928e-23cbbc68941f.PNG">
+## View All Students Result
+<img width="960" alt="view all students" src="https://user-images.githubusercontent.com/63288542/149562977-8e2d30db-ef9e-464d-83c5-250b09b6ded4.PNG">
+## Add student result
+<img width="956" alt="add student" src="https://user-images.githubusercontent.com/63288542/149562992-e2ca4332-18db-4a95-9add-b3460e8b2521.PNG">
+## Student Login
+<img width="960" alt="student login" src="https://user-images.githubusercontent.com/63288542/149563029-e6640265-693d-49b5-af0f-5a4949fadb71.PNG">
