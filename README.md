@@ -10,7 +10,7 @@ A Result Management System using HTML, CSS, JavaScript , Node and using MVC Mode
 1. Signin/up to https://www.mongodb.com/cloud/atlas/register 
 2. Create a cluster and connect it to your application.
 3. Refer to : https://www.section.io/engineering-education/nodejs-mongoosejs-mongodb/
-4. Do edit your <password> and database name in the connection string.
+4. Do edit your password and database name in the connection string copied to app.js file.
   
 ## Backend 
 1. Open the project in Visual Studio Code.
